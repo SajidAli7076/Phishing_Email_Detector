@@ -21,16 +21,16 @@ The system processes every email through a three-stage verification pipeline:
 ## 📸 Screenshots & Visuals
 
 ### Input / Output 1  
-![Input Output 1](Screenshots/INPUT-OUTPUT-1.PNG)
+![Input Output 1](Screenshots/INPUT-OUTPUT-1.png)
 
 ### Input / Output 2  
-![Input Output 2](Screenshots/INPUT-OUTPUT-2.PNG)
+![Input Output 2](Screenshots/INPUT-OUTPUT-2.png)
 
 ### Input / Output 3  
-![Input Output 3](Screenshots/INPUT-OUTPUT-3.PNG)
+![Input Output 3](Screenshots/INPUT-OUTPUT-3.png)
 
 ### Input / Output 4  
-![Input Output 4](Screenshots/INPUT-OUTPUT-4.PNG)
+![Input Output 4](Screenshots/INPUT-OUTPUT-4.png)
 
 ### 1. Application Startup
 *What the user sees when launching the detector in the terminal.*
