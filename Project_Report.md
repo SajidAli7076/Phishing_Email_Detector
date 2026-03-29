@@ -137,11 +137,13 @@ The system generates the following output:
 
 **Example Output:**  
 
-RESULT : 🛑 SCAM DETECTED
-RISK % : 85.2
-WHY : Attempt to steal login details
-KEYWORDS : bank, login
-LINKS : 3
+## 🔍 Result
+
+**RESULT**     : 🛑 SCAM DETECTED  
+**RISK %**     : 85.2  
+**WHY**        : Attempt to steal login details  
+**KEYWORDS**   : bank, login  
+**LINKS**      : 3  
 ---
 
 ## 10. Advantages  
