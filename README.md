@@ -56,7 +56,7 @@ Ensure you have **Python 3.8+** installed on your system.
 ### Dependency Installation
 The detector requires `pandas` and `scikit-learn`. Install them using:
 
-```bash
+bash
 pip install pandas scikit-learn
 ## 📖 Operational Guide
 
