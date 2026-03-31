@@ -15,12 +15,6 @@
 **Submission Date:** 31/03/26  
 
 ---
-
-## 📜 Certificate  
-This is to certify that **Sajid Ali (25BCE10964)** has successfully completed the project titled **“Phishing Email Detector”** as part of the course **CSA2001** at **VIT Bhopal**.  
-
----
-
 ## 🙏 Acknowledgement  
 I would like to sincerely thank my faculty members and **VIT Bhopal** for their valuable guidance and support throughout the completion of this project.  
 
